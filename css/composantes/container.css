@@ -1,0 +1,67 @@
+#introduction img {
+    margin-right: 	1px;
+	margin-left: 	-200px;
+	width: 100px;
+	height: 100px;
+	vertical-align: middle;
+
+}
+#introduction p{
+vertical-align: middle;
+}
+
+
+div {
+	background: white;
+
+	box-shadow: 0 60px 80px rgba(0,0,0,.5);
+
+}
+
+.container{
+	width:900px;
+	margin: 40px auto;
+}
+
+
+.button{
+  align-self: flex-end;
+  background-color: #6AA6B3;
+  text-decoration: none;
+  padding : 5px 5px;
+  color: black;
+  font-weight: bold;
+
+}
+.button:hover { background-color : #f4d1c1;}
+
+
+
+.card{
+	text-align: center;
+}
+
+.card-white{
+	background-color: white;
+	padding:40px;
+	box-shadow: 0px 10px 30 px rgba(0,0,0,0.1);
+
+	margin:20px 0px;
+	margin: 20px 0 px;
+	text-align:center;
+}
+
+
+
+.photo{
+
+	width: 300px;
+	height: 300px;
+	vertical-align: center;
+
+}
+
+
+table{
+margin:auto;
+}
