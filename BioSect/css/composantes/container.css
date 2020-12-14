@@ -1,0 +1,35 @@
+.container h1{
+  font-size:40px;
+  color:#F4BCB6;
+  text-align: center;
+ 
+
+}
+
+.container .logo{
+  width:250px;
+  border-radius:30%; 
+   text-align: center;
+  display: table-cell;
+  margin:auto;
+  margin-top:150px;
+
+ 
+}
+
+.container{
+
+  flex-direction: column;
+   text-align: center;
+  /**margin-bottom: 503px;
+  width:800px;*/
+ 
+}
+
+.container .button{
+  margin-top:100px;
+   padding : 5px 50px;
+    border-radius:50%;
+    margin-bottom:100px;
+
+}

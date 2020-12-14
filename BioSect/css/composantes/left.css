@@ -1,0 +1,19 @@
+.left{
+  width: 45%;
+  height: 100%;
+  background-image: linear-gradient(-300deg, rgba(0,0.2,0.9,0.6) 20%, rgba(0,0,0,0.2) 90%),url(../../images/fondleft.jpg);
+  background-size: cover;
+
+}
+
+.texte_centrer {
+  position: absolute;
+  top: 65%;
+  right: 55%;
+  transform: translate(-50%, -50%);
+   font-size:30px;
+  color:#F4BCB6;
+  text-align: center;
+  text-align: justify;
+ 
+}
